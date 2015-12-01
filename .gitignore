@@ -50,5 +50,3 @@ Temporary Items
 Eclipse/.settings/language.settings.xml
 *.o
 *.map
-*.d
-Eclipse/Debug/makefile
