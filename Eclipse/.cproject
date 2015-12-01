@@ -37,7 +37,7 @@
 									<listOptionValue builtIn="false" value="_DEBUG"/>
 									<listOptionValue builtIn="false" value="__SL__"/>
 								</option>
-								<option id="gnu.c.compiler.option.misc.other.623990317" name="Other flags" superClass="gnu.c.compiler.option.misc.other" useByScannerDiscovery="false" value="-pipe -x c -mcpu=cortex-m4 -mthumb -gdwarf-2 -c -MD -std=c99 -fsingle-precision-constant -ffunction-sections -fdata-sections -Wimplicit -Wno-format -Wno-unused-variable -Wno-unused-but-set-variable" valueType="string"/>
+								<option id="gnu.c.compiler.option.misc.other.623990317" name="Other flags" superClass="gnu.c.compiler.option.misc.other" useByScannerDiscovery="false" value="-pipe -x c -mcpu=cortex-m4 -mthumb -gdwarf-2 -c -std=c99 -fsingle-precision-constant -ffunction-sections -fdata-sections -Wimplicit -Wno-format -Wno-unused-variable -Wno-unused-but-set-variable" valueType="string"/>
 								<option id="gnu.c.compiler.option.include.paths.869375033" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${CC3200SDK}/simplelink/include&quot;"/>
